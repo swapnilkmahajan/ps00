@@ -1,0 +1,11 @@
+Date  Who       Start	 Stop	  Interruptions 	Question 	TimeOnTask    Comments
+8/23  SM        19:15    19:40          10              1               15            Download and install Racket.
+8/27  SM        10:02 	 10:25  	5          	1        	18            Setup CCIS mail account
+9/01  SM        10:21    11:00          10              1               29            Create Github account and download Github client for windows
+9/01  SM	11:05	 11:20		0		3		15	      Solved problems 1,2 and 3 from set 00.
+9/01  SM        11:27    12:30          8		4               55	      Solved problems 4 to 7 from set 00.
+============committing to git: 9/01 12:36 ===================
+9/01  SM        13:10	 13:20		0		1		10	      Solved question 8 from set 00.
+9/01  SM	13:50	 14:20		0		2		30	      Solved question 9-10 from set 00
+9/01  SM        14:45    17:48          8+10+5          10              160           Read materials and Solved problems 11 to 20
+============committing to git: 9/01 17:58 ===================
